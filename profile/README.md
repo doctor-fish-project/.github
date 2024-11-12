@@ -2062,7 +2062,7 @@ public interface UserReviewMapper {
 </details>
 
 <details>
-<summary>의사 정보 영상과 코드 리뷰</summary>
+<summary>의사 정보 영상</summary>
 <div markdown="1">
 
 <br/>
@@ -2078,7 +2078,7 @@ public interface UserReviewMapper {
 </details>
 
 <details>
-<summary>공지사항 영상과 코드 리뷰</summary>
+<summary>공지사항 영상</summary>
 <div markdown="1">
 
 <br/>
