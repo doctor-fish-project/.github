@@ -28,24 +28,6 @@
             <th align="center"><span>김지현</span></th>
         </tr>
     </thead>
-    <tbody>
-        <td align="center">
-            <a href="https://github.com/dongyoon7212">
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/ez0603">
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/seohyeonwook">
-            </a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/jayhyeon12">
-            </a>
-        </td>
-    </tbody>
 </table>
 </div>
 
